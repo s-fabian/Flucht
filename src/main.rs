@@ -525,7 +525,7 @@ type OurHash = HashMap<String, u8>;
 
 pub fn search_best(f: Field) {
     let move_list: Vec<u8> = vec![];
-    let mut i = 114;
+    let mut i = 0;
     loop {
         i += 1;
         info!("new search depth: {}", i);
