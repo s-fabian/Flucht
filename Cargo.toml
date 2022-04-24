@@ -1,0 +1,9 @@
+[package]
+name = "flucht"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+log = "0.4"
+colog = "1.1"
+colored = "2"
