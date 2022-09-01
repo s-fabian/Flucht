@@ -7,4 +7,4 @@ To see the results, look at the terminal or open `solution.html` after it finish
 
 Credits to the [Illuseum Berlin](https://www.illuseum-berlin.de/)
 
-Run `cargo run --release` to start, and please use [wsl2](https://docs.microsoft.com/en-us/windows/wsl/install) on windows for best performance
+Run `cargo run --release` to start, on windows use [wsl2](https://docs.microsoft.com/en-us/windows/wsl/install) for the best performance
